@@ -1,0 +1,18 @@
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in SMILExtract : config file is: C:\opensmile\config\IS09_emotion.conf
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in cComponentManager : successfully registered 95 component types.
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in instance 'lldsink' : No filename given, disabling this sink component.
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in instance 'lldhtksink' : No filename given, disabling this sink component.
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in instance 'lldarffsink' : No filename given, disabling this sink component.
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in instance 'csvsink' : No filename given, disabling this sink component.
+[ 14.04.2019 - 12:51:13 ]
+    (MSG) [2] in instance 'htksink' : No filename given, disabling this sink component.
+[ 14.04.2019 - 12:51:13 ]
+    (ERROR) [1] in cArffSink : Error opening file 'C:\opensmile\txt2\03a05Fc.txt' for writing (component instance 'arffsink', type 'cArffSink')

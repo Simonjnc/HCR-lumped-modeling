@@ -1,0 +1,19 @@
+%% 可运行的程序：
+% DE：差分进化优化参数
+% HCR_manual_singleCase：用来手调参数
+
+%% 被调用的函数：
+% calculateCoefficient：计算反应网络中的系数
+% calculateCp_mixture：计算混合热容
+% calculateInitialCondition：计算初始条件
+% calculateU：计算速度
+% common：公用的所有物性
+% HCR：整个过程模拟
+% k2t：温度转换
+% mass2yield：质量转产率
+% mol2mass：摩尔转质量
+% myplot：画图
+% object_fun：目标函数
+% ode15s_hcr：ode
+% operationCondition：操作条件
+% t2k：温度转换
